@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 # Restaurant Landing Page
-### [Live Site](https://gericht-restaurant.com/)
+### [Live Site](https://github.com/L0MAX/mordern_ui_ux_restaurant/blob/main/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
